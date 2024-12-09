@@ -1,6 +1,7 @@
 ## Hi there ❄👋
 
-I'm **Eiss20**! Welcome to my GitHub profile.
+I'm **Pajenan**, but you can call me   ❄ Ice ❄ – or  ❄ Eis ❄ 🍦, if you're on the German side! 🇩🇪  
+
 
 ### ❄🌟 About Me
 ![Status](https://img.shields.io/badge/Status-Exploring-blue?style=flat-square)  
