@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🍦 I'm **Pajenan**, but you can call me   ❄ Ice  or  Eis ❄ , if you're on the German side! 🇩🇪 🍦 
+🍦 I'm **Pajenan**, but you can call me   ❄ Ice  or  Eis ❄  🍦 
 
 
 ### ❄🌟 About Me
