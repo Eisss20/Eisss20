@@ -3,7 +3,7 @@
 🍦 I'm **Pajenan**, but you can call me   ❄ Ice  or  Eis ❄  🍦 
 
 
-### ❄🌟 About Me
+### 🌟 About Me 🌟 ###
 ![Status](https://img.shields.io/badge/Status-Exploring-blue?style=flat-square)  
 ![Learning](https://img.shields.io/badge/Learning-Node.js%20%26%20API-orange?style=flat-square)  
 ![Focus](https://img.shields.io/badge/Focus-React%20%26%20Backend-green?style=flat-square)
