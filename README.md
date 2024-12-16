@@ -19,8 +19,6 @@
 - Designing responsive and intuitive user interfaces for enhanced user experience.
 - Setting up RESTful APIs.
 
-
-
 ### 💻 Technical Skills
 
 #### Frontend
@@ -40,8 +38,7 @@
 
 
 ### ❄📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square)](https://www.linkedin.com/in/pajenan-jaichuangchot/)  
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-red?style=flat-square)](mailto:Pajenan.j@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoWidth=30)](https://www.linkedin.com/in/pajenan-jaichuangchot/) [![Email](https://img.shields.io/badge/Email-Say%20Hello-red?style=for-the-badge&logo=gmail&logoWidth=30)](mailto:Pajenan.j@hotmail.com)
 
 ### ❄⚡ Fun fact
 ![Fun](https://img.shields.io/badge/Fun-Coding%20Challenges-yellow?style=flat-square)  
