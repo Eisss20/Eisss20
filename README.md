@@ -1,12 +1,15 @@
 ## Hi there 👋
 
-🍦 I'm **Pajenan**, but you can call me   ❄ Ice  or  Eis ❄  🍦 
+ 🍦 I'm **Pajenan**, but you can call me   ❄ Ice  or  Eis ❄  🍦    
 
 
 ### 🌟 About Me 🌟 ###
-![Status](https://img.shields.io/badge/Status-Exploring-blue?style=flat-square)  
-![Learning](https://img.shields.io/badge/Learning-Node.js%20%26%20API-orange?style=flat-square)  
-![Focus](https://img.shields.io/badge/Focus-React%20%26%20Backend-green?style=flat-square)
+[![Status](https://img.shields.io/badge/Status-Exploring-blue?style=for-the-badge)]()
+[![Learning](https://img.shields.io/badge/Learning-Node.js%20%26%20API-orange?style=for-the-badge)]()
+[![Focus](https://img.shields.io/badge/Focus-Frontend%20%26%20Backend-%234CAF50?style=for-the-badge)]()
+
+
+
 
 - 🔭 I’m currently working on **React-based projects** and exploring **backend development**.
 - 🌱 I’m currently learning **Node.js**, **Express**, and **API development**.
@@ -16,10 +19,10 @@
 
 ### ❄💬 Ask me about
 - Web development (React, Node.js, Next.Js, etc.)
-- Designing responsive and intuitive user interfaces for enhanced user experience.
+- Designing responsive and intuitive user interfaces for enhanced user experience.  
 - Setting up RESTful APIs.
 
-### 💻 Technical Skills
+### 💻 Technical Skills 
 
 #### Frontend
 | HTML5 | CSS3 | JavaScript | React | Next.js |
@@ -40,12 +43,11 @@
 ### ❄📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoWidth=30)](https://www.linkedin.com/in/pajenan-jaichuangchot/) [![Email](https://img.shields.io/badge/Email-Say%20Hello-red?style=for-the-badge&logo=gmail&logoWidth=30)](mailto:Pajenan.j@hotmail.com)
 
-### ❄⚡ Fun fact
-![Fun](https://img.shields.io/badge/Fun-Coding%20Challenges-yellow?style=flat-square)  
-- I enjoy solving coding challenges and experimenting with new frameworks!
-
 ---
 Feel free to explore my repositories or drop me a message. Let's connect and collaborate! ❄🚀
+
+
+ <img src="https://i.gifer.com/4E68.gif" alt="GIF Image" width="300" height="300" />
 
 
 
